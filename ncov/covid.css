@@ -1,0 +1,114 @@
+*{
+	padding: 0;
+	margin: -3px;
+	font-family: "Roboto",sans-serif;
+}
+.new .lop{
+	width: 1000px;
+	margin: 0px auto;
+	height: 20px;
+}
+.lop{
+	height: 30px;
+	padding: 10px;
+}
+header{
+	height: 180px;
+	background-image: url(https://static.mediacdn.vn/covid19.gov.vn/image/bg-header.png);
+	background-size: 100% 100%;
+}
+.head{
+	width: 1000px;
+	margin: 0px auto;
+}
+.ngay{
+	margin-top: 20px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+}
+header img{
+	padding-left: 30px;
+	padding-top: 0px;
+}
+header h2{
+	color: white;
+	float: right;
+	margin-top: 60px;
+	margin-right: 200px;
+}
+#menu{
+	margin-top: 20px;
+}
+ul.chon li{
+	list-style: none;
+	float: left;
+	
+}
+ul.chon li a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 0px 15px 0px 15px;
+}
+ul.chon li a: hover{
+	background: orange;
+}
+footer{
+	height: 50px;
+	background: #2e3192;
+	text-align: center;
+	color: white;
+	padding-top: 25px;
+}
+article{
+	font-size: 17px;
+	width: 1000px;
+	margin: 90px auto;
+}
+.tintuc0{
+	display: flex;
+}
+.tintuc1{
+	width: 1000px;
+	display: flex;
+
+}
+.tintuc1 .tintuc11hed{
+	width: 500px;
+}
+.tintuc1 .tintuc11hed .tintuc11{
+	height: 280px;
+}
+.tintuc1 .tintuc11hed a{
+	color: #708090;
+	font-size: 13px;
+	margin: 3px 5px;
+	padding: 5px 15px;
+	text-decoration: none;
+}
+.tintuc1 .tintuc11hed .tintuc111{
+	margin:4px;
+	display: flex;
+}
+.tintuc1 .tintuc11hed a:hover{
+	color: #78b43d;
+	border-bottom: 0px solid #78b43d;
+}
+.img1 {
+	height: 490px;
+	margin-top: 20px;
+	margin-left: 250px;
+}
+.img1 .imgcon{
+	float: left;
+	margin-left: 0px;
+	margin-top: 12px;
+}
+.noidung{
+	float: left;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.aa{
+	margin-top: -100px;
+}
